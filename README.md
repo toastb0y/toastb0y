@@ -1,3 +1,2 @@
 # hey peeps
-#welcome to my profile
-#make urselves at home
+welcome to my profile
