@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a beginner programmer and aspiring software dev who has a passion for making things!<br>I'm also an artist; I love to draw and come up with little creatures and put them in my projects.<br>Right now one of my goals is to make a videogame worth playing.<br>I'm learning the Love2D framework alongside Lua to accomplish this goal, however I want to use other tools such as Godot or Gamemaker in the future!</p>
+<p align="left">I'm a beginner programmer and aspiring software dev who has a passion for making things!<br>I'm also an artist; I love to draw and come up with little creatures and put them in my projects.</p>
 
 ###
 
